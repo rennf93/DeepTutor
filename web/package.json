@@ -46,8 +46,8 @@
     "jspdf": "^4.2.0",
     "lucide-react": "^0.562.0",
     "mdast-util-from-markdown": "^2.0.2",
-    "mermaid": "^11.14.0",
-    "next": "^16.2.3",
+    "mermaid": "^11.16.1",
+    "next": "^16.4.1",
     "pdfjs-dist": "^6.2.108",
     "react": "^19.0.0",
     "react-chartjs-2": "^5.3.1",
@@ -87,6 +87,6 @@
     "simple-icons": "^16.27.1",
     "tailwindcss": "^3.4.17",
     "typescript": "^5",
-    "vitest": "^4.1.11"
+    "vitest": "^4.1.12"
   }
 }
